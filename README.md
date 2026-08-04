@@ -2,7 +2,7 @@
 
 code from slides from my presentation about how to use built-in unity audio to make good quality game sound
 
-[presentation link](https://docs.google.com/presentation/d/1DTegV5W0KpNiWVgMQ23c4jNFvNNpqTfKdP07aTAzAnY/mobilepresent?slide=id.p)
+[presentation link](https://docs.google.com/presentation/d/1UwLIPe65i4YKxqCuCD5UPhmFOsS0ut0OL1C9tIlHsnY/edit?usp=sharing)
 
 ![{0837F496-BECF-4A08-88A1-AD4B0A43FF5A}](https://github.com/user-attachments/assets/735904e7-8d5b-4316-8374-9693a4278480)
 
